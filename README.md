@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Health Tech Project**
 
-- 🌱 I’m currently learning **Hadoop, Django and Scala**
+- 🌱 I’m currently learning **Hadoop and Web scrapping**
 
 - 👯 I’m looking to collaborate on **Machine learning / Artificial Intelligence projects**
 
