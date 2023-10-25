@@ -1,4 +1,5 @@
 ![logo](https://github.com/crisGriebler/crisGriebler/blob/main/github.banner.png)
+
 <h1 align="center">Hi 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A data scientist working from Brazil</h3>
 
@@ -12,7 +13,7 @@
 
 - 📫 How to reach me **cristiangrb@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV23pdf.pdf" class="nav-link">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV2023.pdf" class="nav-link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
