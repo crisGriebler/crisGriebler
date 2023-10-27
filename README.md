@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A data scientist working from Brazil</h3>
 
-- 🔭 I’m currently working on **Health Tech Project**
+- 🔭 I’m currently working on **Computer Vision Project**
 
 - 🌱 I’m currently learning **Hadoop and Pyspark**
 
