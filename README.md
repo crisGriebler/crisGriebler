@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Hadoop and Pyspark**
 
-- 👯 I’m looking to collaborate on **Machine learning / Artificial Intelligence Projects**
+- 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
 
 - 💬 Ask me about **Data Science, Artificial Intelligence and Nuclear Physics**
 
