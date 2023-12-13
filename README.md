@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision Project** in a comapny called **@TECH**
 
-- 🌱 I’m currently learning **Pyspark and ML Optimzation**
+- 🌱 I’m currently learning **Pyspark and ML Optimization**
 
 - 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
 
