@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **cristiangrb@gmail.com**
 
-- 📄 Get know about my experiences <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV24_english.pdf" class="nav-link">**Resume**</a>
+- 📄 Get know about my experiences <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV24s.pdf" class="nav-link">**Resume**</a>
 
-- 📄 Get know about my previous projects  <a href="https://crisgriebler.github.io/" **Portfolio**</a>
+- 📄 Get know about my previous projects  <a href="https://crisgriebler.github.io/" **Portfolio** </a>
 
 
 <h3 align="left">Connect with me:</h3>
