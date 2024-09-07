@@ -16,8 +16,11 @@
 - 📄 Get know about my experiences in my <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV24s.pdf" class="nav-link">**Resume**</a>
 
 - 📄 Get know about my previous projects in my <a href="https://crisgriebler.github.io/" class="nav-link">**Portfolio**</a>
+<<<<<<< HEAD
 
 - 📄 Get know about my previous projects in my <a href="https://crisgriebler.github.io/" class="nav-link"> **Portfolio** </a>
+=======
+>>>>>>> 68e1dc593c9c45f767c3e0ffcdc4f361ed02ffd7
 
 
 <h3 align="left">Connect with me:</h3>
