@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>
 
-- 🌱 I’m currently learning **SQL and Machine Learning**
+- 🌱 I’m currently learning **Big Data, SQL and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
 
