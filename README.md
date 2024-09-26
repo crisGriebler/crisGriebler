@@ -4,7 +4,7 @@
 <h3 align="center">A data scientist working from Brazil</h3>
 
 - 🔭 I’m currently working on **Computer Vision Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>
-- Lets see
+
 - 🌱 I’m currently learning **SQL and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
