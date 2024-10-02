@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A Data Scientist working from Brazil</h3>
 
-- 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>. Also working with LLMs models, dashboard production and People Analytics area.
+- 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>. Also working with LLMs models, dashboard production in People Analytics area.
 
 - 🌱 I’m currently learning **Big Data, SQL and Machine Learning**
 
