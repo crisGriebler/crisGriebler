@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A Data Scientist working from Brazil</h3>
 
-- 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>. Also working with LLMs models and dashboards production in People Analytics.
+- 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>.
+  Also working with LLMs models and dashboards production in People Analytics.
 
 - 🌱 I’m currently learning about **Big Data, SQL and Machine Learning**
 
@@ -15,7 +16,7 @@
 
 - 📄 Get know about my experiences in my <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV24s.pdf" class="nav-link">**Resume**</a>
 
-- 📄 Get know about my previous projects in my <a href="https://crisgriebler.github.io/" class="nav-link">**Portfolio**</a>
+- 📄 Get know about my previous projects in my <a href="https://crisgriebler.github.io/" class="nav-link">**Portfolio**</a> Repeat
 
 
 <h3 align="left">Connect with me:</h3>
