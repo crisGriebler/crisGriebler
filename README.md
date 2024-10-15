@@ -4,7 +4,7 @@
 <h3 align="center">A Data Scientist working from Brazil</h3>
 
 - 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>.
-  Also working with LLMs models and dashboards production in People Analytics for multiple proj
+  Also working with LLMs models and dashboards production in People Analytics.
 
 - 🌱 I’m currently learning about **Big Data, SQL and Machine Learning**
 
