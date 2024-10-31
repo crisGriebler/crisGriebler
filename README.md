@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**
 
-- 💬 Ask me about **Data Science, Artificial Intelligence and Quantum Comm**
+- 💬 Ask me about **Data Science, Artificial Intelligence and Quantum Communication**
 
 - 📫 How to reach me **cristiangrb@gmail.com**
 
