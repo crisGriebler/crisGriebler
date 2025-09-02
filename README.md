@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>.
   Also working with dashboards and LLMs production in Law area.
 
-- 🌱 I’m currently learning about **Google Cloud Platform, Google Dataflow, BigQuery**.
+- 🌱 I’m currently learning about **Google Cloud Platform, Cloud Run, Airflow**.
 
 - 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**.
 
-- 💬 Ask me about **Data Science, Artificial Intelligence and Quantum Communication**
+- 💬 Ask me about **Data Science, Artificial Intelligence and Computer Vision**
 
 - 📫 How to reach me **cristiangrb@gmail.com**
 
