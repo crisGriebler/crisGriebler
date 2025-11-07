@@ -3,18 +3,18 @@
 <h1 align="center">Hi 👋, I'm Cristian Griebler</h1>
 <h3 align="center">A Data Scientist working from Brazil</h3>
 
-- 🔭 I’m currently working on **Computer Vision and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>.
+- 🔭 I’m currently working on **Data Architecture and Prediction Model Project** in <a href="https://techagr.com/" class="nav-link">**@TECH**</a>.
  
 
-- 🌱 I’m currently learning about **Google Cloud Platform, Cloud Run, Airflow**.
+- 🌱 I’m currently learning about **Google Cloud Platform and Databricks**.
 
-- 👯 I’m looking to collaborate on **Machine Learning / Artificial Intelligence Projects**.
+- 👯 I’m looking to collaborate on **Data Engineer or Machine Learning Projects**.
 
-- 💬 Ask me about **Data Science, Artificial Intelligence and Computer Vision**
+- 💬 Ask me about **Data Engineer, Artificial Intelligence and Quantum Computer**
 
 - 📫 How to reach me **cristiangrb@gmail.com**
 
-- 📄 Get know about my experiences in my <a href="https://github.com/crisGriebler/crisGriebler/blob/main/CV24_eng_pdf.pdf" class="nav-link">**Resume**</a>.
+- 📄 Get know about my experiences in my <a href="https://github.com/crisGriebler/crisGriebler/blob/main/Cristian_Griebler_DataEngineer.pdf" class="nav-link">**Resume**</a>.
 
 - 📄 Get know about my previous projects in my <a href="https://crisgriebler.github.io/" class="nav-link">**Portfolio**</a>.
 
