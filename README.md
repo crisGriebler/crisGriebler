@@ -8,8 +8,8 @@ I build reliable data products that turn complex sources into useful decisions. 
 
 ## About
 
-- Data Engineer at **@TECH**, focused on automating data ingestion, transformation, and loading workflows with Python, SQL, and BigQuery.
-- Experienced with Databricks, PySpark, Delta Lake, GCP, AWS, Docker, and data visualization tools.
+- Analytics Engineer at **Nexus Investimentos**, focused on automating data ingestion, transformation, and loading workflows with Python, SQL, and BigQuery.
+- Experienced with Databricks, PySpark, Delta Lake, GCP, Docker, and data visualization tools.
 - Background in physics and biomedical engineering, with practical work in machine learning, forecasting, and data-driven optimization.
 
 ## Selected impact
